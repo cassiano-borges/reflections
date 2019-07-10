@@ -8,3 +8,5 @@ What are some situations when branches would be helpful in keeping your history 
 	creating multiple versions of the same program. Can create tests, and if something goes wrong, is easier to get back than reversing each commit.
 How do the diagrams help you visualize the branch structure?
 	To see the paths of each branch, and if the commits you're doing, won't be lost.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Takes the commits of both branches and merge them together. It is like joining two branches into a single one.
