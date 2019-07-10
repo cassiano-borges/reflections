@@ -6,3 +6,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 	using git diff to see the changes between working directory and staging area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	creating multiple versions of the same program. Can create tests, and if something goes wrong, is easier to get back than reversing each commit.
+How do the diagrams help you visualize the branch structure?
+	To see the paths of each branch, and if the commits you're doing, won't be lost.
